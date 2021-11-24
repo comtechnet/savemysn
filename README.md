@@ -14,8 +14,8 @@ All of this gets recorded into a mongodb document associated with sn account
 Database (sn account Database; i.e., Facebook ...)
 Data is stored in mongodb atlas cluster - using an authorized google login / Company name in mongodb is xxxxxxxx (SledgeSoft for example)
 
-Development
-Only the production database works for now ... but frontend can run locally
+Development ...
+Only the production database works for now ... but the frontend can run locally
 Todo
 Try to get rid of all any typing
 Tasks ...
