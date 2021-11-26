@@ -13,7 +13,6 @@ Here is what an offline-stored archive job would look like:
 * Backend zips folder and uploads it to sms-archives bucket
 * All of this gets recorded into a mongodb document associated with sn account
 
-
 ## Database (sn account Database; i.e., Facebook ...)
 Data is stored in mongodb atlas cluster - using an authorized google login / Company name in mongodb is xxxxxxxx (SledgeSoft for example)
 
